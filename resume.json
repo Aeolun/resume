@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "Bart J. Riepe",
+    "label": "Senior Software Engineer",
+    "picture": "https://lh4.googleusercontent.com/iD2pt_W-44Uxu94UNHIb_b8KMOQg7sfj4Gs4Zu-kUg7TkUclrA4JsZeFQuYkCXX1n_4Iw6gCB_ayyWJKr0bY=w1345-h974",
+    "email": "bart@serial-experiments.com",
+    "phone": "+81 70 2171 3561",
+    "website": "https://serial-experiments.com",
+    "summary": "I am an experienced software developer and system administrator. I have worked for both startups and large corporations and know my way around both. I do my best work in an environment that values freedom and responsibility.",
+    "location": {
+      "address": "Shimotakaido 4丁目 35−26",
+      "postalCode": "〒168-0073",
+      "city": "Suginami-ku",
+      "countryCode": "JP",
+      "region": "Tokyo-to"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bartriepe",
+        "url": "linkedin.com/in/bartriepe"
+      },
+      {
+        "network": "github",
+        "username": "aeolun",
+        "url": "github.com/aeolun"
+      },
+      {
+        "network": "bitbucket",
+        "username": "aeolun",
+        "url": "bitbucket.org/aeolun"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nature Research",
+      "position": "Senior Developer, Nature Index",
+      "website": "https://www.nature.com",
+      "location": "Tokyo, Japan",
+      "startDate": "Jan 2016",
+      "endDate": "Dec 2017",
+      "summary": "Develop the Nature Index website, supplements and back-office system.",
+      "highlights": [
+        "Rebuild academic ranking generation to be more maintainable and take only 1/10th of the time, saving up to 9h per ranking for +/- 50 rankings/month.",
+        "Adapted and migrated internal applications to our local CloudFoundry (Application) platform.",
+        "Mentor/manage junior developers to improve and grow their skills.",
+        "Generated ML model to help with matching our database of institutions to sometimes extremely arbitrary affiliation strings in academic articles."
+      ],
+      "keywords": [
+        "PHP",
+        "MongoDB",
+        "PostgreSQL",
+        "Ruby (on Rails)",
+        "Elasticsearch",
+        "AWS",
+        "Machine Learning",
+        "Graph Databases",
+        "Unix",
+        "Nginx",
+        "JQuery",
+        "Vue.js",
+        "Redis",
+        "VCS (Git)",
+        "HTML/Javascript/CSS/SASS",
+        "Ansible",
+        "Docker"
+      ]
+    },
+    {
+      "company": "Rinkya Inc.",
+      "position": "Technical Lead",
+      "website": "https://www.rinkya.com",
+      "location": "Tokyo, Japan",
+      "startDate": "Sep 2012",
+      "endDate": "Dec 2015",
+      "summary": "Manage all IT work for Rinkya Inc.",
+      "highlights": [
+        "Redeveloped website, entirely overhauling customer experience, and automating many manual processes.",
+        "Implemented administrative system for correlating thousands of montly transactions to bank transfers.",
+        "Integrate with Fedex to automatically create invoices, customs declaration and package labels.",
+        "Implement Java application that approximates location of item RFID tags for locating inventory."
+      ],
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "Perl",
+        "Java",
+        "AWS",
+        "Unix",
+        "Nginx",
+        "Sphinx Search",
+        "JQuery",
+        "Angular",
+        "Vue.js",
+        "Redis",
+        "VCS (Git)",
+        "HTML/JS/CSS/LESS",
+        "Ansible"
+      ]
+    },
+    {
+      "company": "Serial Experiments",
+      "position": "Owner",
+      "website": "https://serial-experiments.com",
+      "location": "Uithoorn, Netherlands",
+      "startDate": "Dec 2010",
+      "endDate": "",
+      "summary": "Build & sell web-based products for SMB & NPOs based in the Netherlands.",
+      "highlights": [
+        "Built highly customized (CMS backed) websites for small businesses in the Netherlands.",
+        "Partnership with two design firms.",
+        "Created a platform for rapid iteration on customer feedback (e.g. Continuous Integration).",
+        "Several SaaS applications still under development."
+      ],
+      "keywords": [
+        "PHP",
+        "C#",
+        "Java",
+        "MySQL",
+        "Nginx",
+        "Unix",
+        "VCS (Mercurial)",
+        "HTML/Javascript/CSS/LESS"
+      ]
+    },
+    {
+      "company": "INFI B.V.",
+      "position": "Developer",
+      "website": "https://www.infi.nl",
+      "location": "Utrecht, Netherlands",
+      "startDate": "Jun 2007 — Feb 2009, Sep 2011",
+      "endDate": "Aug 2012",
+      "summary": "Consulting on software solutions for Dutch SMB and enterprises.",
+      "highlights": [
+        "VBA application to automatically fill out all client information from external database.",
+        "Optimized questionnaire builder giving flawless performance regardless of size.",
+        "Chatbot for one of the 'Big Three' clubs of Dutch soccer play.",
+        "E-learning system later used in/as official dutch e-learning curriculum builder."
+      ],
+      "keywords": [
+        "PHP",
+        "C#",
+        ".NET",
+        "VBA",
+        "Java",
+        "MySQL",
+        "MSSQL",
+        "Unix",
+        "HTML/JS/CSS",
+        "VCS (Git/SVN)"
+      ]
+    },
+    {
+      "company": "fonQ B.V.",
+      "position": "Developer / System Administrator",
+      "website": "https://www.fonq.nl",
+      "location": "Utrecht, Netherlands",
+      "startDate": "Jan 2010",
+      "endDate": "Dec 2010",
+      "summary": "Build internal systems to optimize/facilitate fonQ business processes and general systems administration.",
+      "highlights": [
+        "Optimized customer search, from 4s to <1s, seriously reducing customer service representatives frustration when helping customers.",
+        "New application for our warehouse, which optimizes time spent walking as much as possible.",
+        "Uncountable scrapers for different e-commerce systems to ensure our lowest price guarantee."
+      ],
+      "keywords": [
+        "Customer Support",
+        "PHP",
+        "C#",
+        "MySQL",
+        "MSSQL",
+        "Windows Server 2008",
+        "Active Directory",
+        "HTML/Javascript/CSS",
+        "VCS (SVN)"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "98Clicks",
+      "position": "Co-creator",
+      "website": "https://98clicks.com",
+      "startDate": "2016",
+      "endDate": "",
+      "summary": "98Clicks stores and provides a daily selection of headline news from (almost) every country in the world.",
+      "keywords": [
+        "PHP",
+        "Scraping",
+        "PostgreSQL",
+        "Machine Learning",
+        "HTML/Javascript/CSS"
+      ]
+    },
+    {
+      "title": "EVE Marketeer",
+      "position": "Creator",
+      "website": "http://www.evemarketeer.com",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "EVE Marketeer was a statistics website and native client for the game EVE online. It provided players with information on the in-game market, OHLC charts, and predictions for optimal trading.",
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "Python",
+        "JQuery",
+        "Redis",
+        "HTML/Javascript/CSS"
+      ]
+    },
+    {
+      "title": "Pokemon Online",
+      "position": "Creator",
+      "website": "http://pokemon.serial-experiments.com",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Play Pokemon Go online in a format similar to the original pokemon games. Including battling other players you encounter.",
+      "keywords": [
+        "Open Street Maps",
+        "Vue.js",
+        "Websockets",
+        "PHP",
+        "MySQL",
+        "Redis",
+        "HTML/Javascript/CSS"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Startup Weekend",
+      "position": "Organizer",
+      "website": "http://startupweekend.org/",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "Startup Weekends are weekend-long, hands-on experiences where entrepreneurs and aspiring entrepreneurs can find out if startup ideas are viable.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Utrecht University Of Applied Sciences",
+      "area": "Mediatechnology (E-Marketing)",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Sep 2005",
+      "endDate": "Jan 2010",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent / Native"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": [
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Computer",
+        "Board"
+      ]
+    },
+    {
+      "name": "Pizza",
+      "keywords": []
+    },
+    {
+      "name": "Beer",
+      "keywords": [
+        "Belgian"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Heather Russell",
+      "reference": "Excellent part of the Rinkya team!"
+    }
+  ]
+}
